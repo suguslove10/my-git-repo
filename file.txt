@@ -1,2 +1,11 @@
 Initial content
+<<<<<<< HEAD
 Conflicting changes in main branch
+=======
+Changes in new branch
+>>>>>>> new-branch
+
+
+
+
+suguresh
